@@ -55,6 +55,8 @@ body{
     color: #E0C3FC;
     border-radius: 10px;
     transition: .7s;
+    border: none;
+    border: 2px solid black;
 }
 
 .btn a{
